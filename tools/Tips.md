@@ -44,13 +44,13 @@ Il est donc important de se dire avant : "il réussi à passer à partir de 14".
 Lorsqu'on masterise, il est parfois difficile de trouver une bonne valeur limite pour les jets de dés. Pour s'aider, il faut garder à l'esprit que c'est une difficulté pour le MONDE et pas pour les joueurs. Donc faire un saut périlleux d'un bar pour attraper un lustre et retomber sur un pied sur une poutre est DUR pour n'importe qui dans le monde de Fearun. C'est donc vrai pour un PJ quel que soient sa classe, sa race ou son niveau. Cependant, vu ses caractéristiques l'elfe rogue niveau 17 aura beaucoup plus de chance de réussir qu'un sorcier orque niveau 1.
 
 Pour ma part, j'ai ça en tête (avec comme exemple un crochetage):
-- < 10 --> pas besoin de jet sauf si le joueur est ultra nul dans la compétence sinon ca fait perdre du temps pour rien
-- \>= 11 --> très facile (forcer une porte de ferme)
-- \>= 13 --> pas de difficulté particulière (forcer la porte d'une maison d'un villageois) --> c'est ce que j'utilise le plus je pense.
-- \>= 15-16 --> moyen+ (forcer la porte d'un petit marchant) --> c'est aussi une option que je fais souvent quand ça représente un acte peu courant mais encore faisable par un mec lambda
-- \>= 18-20 --> dur (forcer la porte d'un grand bourgeois de la ville)
-- \>= 25 --> très dur (forcer la porte d'un seigneur puissant totalement parano)
-- \>= 30 --> quasi impossible (forcer le coffre secret du maitre du conseil de Baldur's Gate)
+- `<10` --> pas besoin de jet sauf si le joueur est ultra nul dans la compétence sinon ca fait perdre du temps pour rien
+- `>= 11` --> très facile (forcer une porte de ferme)
+- `>= 13` --> pas de difficulté particulière (forcer la porte d'une maison d'un villageois) --> c'est ce que j'utilise le plus je pense.
+- `>= 15-16` --> moyen+ (forcer la porte d'un petit marchant) --> c'est aussi une option que je fais souvent quand ça représente un acte peu courant mais encore faisable par un mec lambda
+- `>= 18-20` --> dur (forcer la porte d'un grand bourgeois de la ville)
+- `>= 25` --> très dur (forcer la porte d'un seigneur puissant totalement parano)
+- `>= 30` --> quasi impossible (forcer le coffre secret du maitre du conseil de Baldur's Gate)
 
 Globalement, 13 est une action qu'une personne du monde non héro peu faire un peu moins d'une fois sur deux si c'est pas son domaine de prédilection et une fois sur deux s'il est bon dedans. 
 
@@ -70,21 +70,21 @@ Du point de vue de la narration, il faut voir un jet comme celà : la valeur du 
 
 #### Regles sur les avantages
 
-Un désavantage + un avantage s'annule: 
-avantage + desavantage =  un jet normal
+Un désavantage + un avantage s'annulent:\
+`avantage + desavantage =  un jet normal`
 
-Normalement, on ne peut pas avoir deux avantages ou désavantages en meme temps et donc pas avoir : 
-avantage + avantage + desavantage = avantage.
-mais :
-avantage + avantage + desavantage =  un jet normal
+Normalement, on ne peut pas avoir deux avantages ou désavantages en meme temps et donc pas avoir:\
+`avantage + avantage + desavantage = avantage`\
+mais :\
+`avantage + avantage + desavantage =  un jet normal`
 
-Cependant, comme dans tout JDR c'est au MJ de décider comment il applique ça.
+Cependant, comme dans tous JDRs, c'est au MJ de décider comment il applique ça.
 
 ### Critiques
 
 Les critiques n'existent **QUE** pour les jets de touche qui deviennent alors des touches automatiques. Contrairement à ce qu'on pense souvent, il n'existe pas de critical success sur des jets de save ou de skills. En effet, cela n'a pas forcement de sens de parler de crit pour un skill puisque le MJ peu demander plus qu'un 20 naturel pour le réussir. Par exemple : si on souhaite intimider un demi dieu le skill check sera peut etre de 30. Il ne fait donc aucun sens que notre halfling qui par chance fait 20 sans bonus de charisme réussisse tout de même.
 
-Cependant, dans les faits, il est plutot cool de rajouter un bonus en plus pour un succes critique sans que ca deviennent quasi divin. Un 20 en histoire ne vous donne pas une connaissance détaillée de tous les drapeaux d'un pays que vous ne connaissez pas.
+Cependant, dans les faits, il est plutot cool de rajouter un bonus en plus pour un succes qui réussi et qui est critique sans que ca devienne quasi divin. Un 20 en histoire pour reconnaitre un drapeau peut vous aider à vous rappeler d'un peu de l'histoire de ce pays et pas que de l'emblème. Cependant, ça ne doit pas vous donner une connaissance détaillée d'un pays que vous ne pouvez pas connaitre car caché depuis deux siecles.
 
 ### Jets de save vs jets de check : 
 
@@ -95,25 +95,33 @@ Ex:
 * Je souhaite trouver un livre sur la magie des fées dans une bibliothèques. Si le livre peut etre trouvé alors le MJ me demande un jet d'arcane à 14.  
 
 Il existe 18 compétences détaillées sur les feuilles de joueur que l'on peut utiliser en tant que MJ. Ce serait trop long de décrire tout ici et c'est très bien fait dans le PHB : 175-179. On peut être proficient dans certaines compétences en fonction des backgrounds, classes et races. 
-Le jet est : 1d20 + le mod pour la compétence (+ profiency)
+Le jet est : `1d20 + le mod pour la compétence (+ profiency)`
 
-Un jet de save est un jet en réaction à un effet ou événement qui s'est "déjà produit". Le joueur ne "choisit" pas de faire un jet de save, il tente de minimiser un événement qui a lieu et qui est mauvais pour le joueur. Ex : un piège avec des fléchettes est déclenché. Elles peuvent être évitées si le perso est assez rapide --> save à 16 (par exemple) de DEXT. Un personnage boit un truc empoisonné --> save à 13 de CONST.
+Un jet de save est un jet en réaction à un effet ou événement qui s'est "déjà produit". Le joueur ne "choisit" pas de faire un jet de save, il tente de minimiser un événement qui a lieu et qui est mauvais pour le joueur. 
+Ex :
+- un piège avec des fléchettes est déclenché. Elles peuvent être évitées si le perso est assez rapide --> save à 16 (par exemple) de DEXT
+- un personnage boit un truc empoisonné --> save à 13 de CONST.
+ 
 Chaque classe rend un perso proficient dans deux type de saves. Les sauvegardes ne sont pas séparées en sous-sauvegardes comme le sont les checks. Il y en a donc que 6 qui sont les caractéristiques (force, dextérité, constitution, intelligence, sagesse et charisme).
-Le jet est : 1d20 + le mod pour le save (+ profiency)
+Le jet est :  `1d20 + le mod pour le save (+ profiency) `
 
-Il est important de différencier les deux types de jet: check et save pour une meme situation . Si on prend le cas d'un fruit empoisonné : 
-Si le joueur vérifie le fruit avant de le manger, c'est une action consciente du joueur. Il doit faire un jet de check de nature ou de medecine pour identifier la menace 
-Si le joueur mange le fruit, c'est une réaction du joueur qui essaie de ne pas crever : un jet de save de CONST. 
-Les réussites des jets : 
+Il est important de différencier les deux types de jets: check et save pour une meme situation.\ 
+Si on prend le cas d'un fruit empoisonné : 
+- Si le joueur vérifie le fruit avant de le manger, c'est une action consciente du joueur. Il doit faire un jet de check de nature ou de medecine pour identifier la menace 
+- Si le joueur mange le fruit, c'est une réaction du joueur qui essaie de ne pas crever : un jet de save de CONST.
+  
+### Les réussites des jets : 
 
-Attaque >= CA
-Les checks >= DC (difficulty challenge)
-Les saves >= DC
-Les deaths >= 10
+def : DC = difficulty challenge fixé par le MJ ou le jeu
+
+`Attaque >= CA`\
+`Les checks >= DC`\
+`Les saves >= DC`\
+`Les deaths >= 10`
 
 ### Conseils aux MJS
 
-Il existe quelques petits tricks pour rendre son jeu plus sympa pour les joueurs basé uniquement sur les jets de dés. 
+Il existe quelques petits tricks pour rendre son jeu plus sympa pour les joueurs basés uniquement sur les jets de dés. 
 
 #### Cacher ses jets en tant que MJ
 
@@ -151,7 +159,7 @@ Lorsqu'un personnage est à terre il existe deux phases qu'on va expliquer ici.
 Si un perso tombe à zéro PV, il est considéré comme inconscient et en danger. On peut imaginer ça comme une personne inconsciente qui saigne et qui doit être stabilisée.
 
 Plusieurs mécaniques sont possibles à partir de ce point: 
-- Le personnage a pris assez de dégâts pour tomber en dessous de son total de point de vie en négatif. Il meurt instantanément. Ex : il a 11 PV max, il est à 2 PV et prend 10 dégats, il meurt instantanément. 
+- Le personnage a pris assez de dégâts pour tomber en dessous de son total de point de vie en négatif. Il meurt instantanément. Ex : il a 11 PV max, il est à 2 PV et prend 14 dégats, il meurt instantanément car ` 2-14 = -12 < -11 `
 - Si le joueur est simplement en dessous de zéro, il doit faire des jets de sauvegarde contre la mort. Ces jets ne possèdent ni modificateur ni avantage. Si le joueur fait plus ou égal à 10 alors il gagne un point de succès, s'il fait moins que 10 il gagne un point de ratage. Si le joueur arrive a avoir 3 succès il devient stable, s'il a 3 fails il meurt. Un 1 compte comme 2 ratés d'un coup, un 20 comme 2 succès d'un coup. Si le personnage inconscient prend un coup alors qu'il est à terre il prend un point de mort en plus. 
  Lorsqu on est stable on reset tous les points de sauvegarde contre la mort. 
 - Un autre joueur utilise la compétence médecine sur le joueur en train de mourir : il faut réussir un jet de médecine >= 10 pour le stabiliser. S'il rate rien ne se passe.
