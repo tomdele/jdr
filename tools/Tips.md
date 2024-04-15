@@ -32,7 +32,7 @@ Ce sont ces questions qui vont permettre de construire son scénario soit pendan
 
 #### Exemple 
 
-Prenons le cas d'un pont à traverser qui a l'air peu solide dans un milieu de montagnes. Un joueur s'engage sur le pont. Je me dis en tant que MJ, dois je faire écrouler le pont et laisser ?
+Prenons le cas d'un pont à traverser qui a l'air peu solide dans un milieu de montagnes. Un joueur s'engage sur le pont. Je me dis en tant que MJ, dois je faire écrouler le pont ou le laisser faire ?
 
 Je me pose donc les questions au dessus dans l'ordre :
 
