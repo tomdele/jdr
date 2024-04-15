@@ -9,14 +9,26 @@ Les jets de dés font partie du jeu de rôle et ont une place très importante d
 ### Buts et conséquences d'un événement avec jet de dés
 
 Une des beautés du JDR est que l'histoire n'est pas connue à l'avance. C'est une histoire collaborative où le MJ, les joueurs et la chance participent. Cela crèe des choses superbes mais aussi de sacrés casses têtes au MJ parfois. Il faut toujours garder à l'esprit que de faire faire un jet est presque toujours un embranchement possible du scénario et qu'il peut avoir de grosses conséquences pour la suite de la campagne. C'est pourquoi avant de proposer une action avec un jet de dé, il faut se poser plusieurs questions pour ne pas faire d'erreur que l'on va regreter par la suite : 
-- Est ce que l'action que je propose a du sens dans le scénario ? On doit utiliser le jet pour faire avancer l'histoire ou créer des embranchements possibles.
-- Qu'est ce que je veux provoquer via cet événement ? On peut vouloir challenger nos joueurs à différents niveaux dans un JDR.
-- Est ce que l'événement est intéressant pour le jeu ? Il crèe une dynamique courte, intéressante et nouvelle.
-- Quelles sont les possibilités de résolution de cette action ? Il doit y avoir une bonne et une mauvaise fin.
-- Si je propose un jet de dé, est ce que je peux assumer les fins logiques que j'ai choisies en tant que MJ ? Si un joueur réussi ou rate un jet, il peut parfois ralentir de plusieurs heures un scénario voire le ruiner. Il est alors potentiellement préférable de faire réussir le joueur automatiquement plutot que de donner l'occasion de faire dérailler totalement un scénario.
-- Est ce que le jet est juste envers les joueurs ? On ne tue pas un personnage car il rate un jet quelconque dans un JDR.
 
-Ce sont ces questions qui vont permettre en général de construire son scénario soit pendant sa préparation soit en live pendant la scéance. Il ne faut pas hésiter à prendre quelques secondes pour réfléchir à tout ça même pendant une scéance.
+Est ce que l'action que je propose a du sens dans le scénario ? 
+> On doit utiliser le jet pour faire avancer l'histoire ou créer des embranchements possibles. L'action doit aussi avoir un sens dans l'univers pour ne pas paraître injuste ou aléatoire.
+
+Qu'est ce que je veux provoquer via cet événement ? 
+> On peut vouloir challenger nos joueurs à différents niveaux dans un JDR. Intelligence, jeu d'équipe, créativité, interprétation, etc... 
+
+Est ce que l'événement est intéressant pour le jeu ?
+>  Il crèe une dynamique courte, intéressante et nouvelle. Il ne faut pas répéter trop de fois la même mécanique sous peine de lasser les joueurs.
+
+Quelles sont les conséquences logiques globales de cette action si je propose un jet de dé ? 
+> Puisque que l'on laisse la chance choisir la résolution de l'action, il doit y avoir une bonne et une mauvaise fin globales définies à l'avance. Par contre, la façon d'y parvenir doit être envisagée mais jamais forcée afin de laisser les joueurs vivre leur aventure et laisser libre cours à leur imagination.
+
+Si je propose un jet de dé, est ce que je peux assumer les fins logiques que j'ai choisies en tant que MJ ? 
+> Si un joueur réussi ou rate un jet, il peut parfois faire dérailler totalement un scénario, le ralentir de plusieurs heures voire pire. Il est alors potentiellement préférable de faire réussir le joueur automatiquement plutot que de donner l'occasion de ruiner des heures de préparation. Il est aussi possible qu'un jet provoque la mort d'un joueur ou d'un personnage principal, il faut alors être sur de pouvoir l'assumer.
+
+Est ce que le jet est juste envers les joueurs ? 
+> Une résolution ou un jet ne doit pas paraitre injuste envers un joueur. C'est une des meilleures choses à faire en tant que MJ pour ruiner la motivation d'un groupe. Il est par exemple injuste de tuer un joueur ou de lui voler tout son équipement sur un jet qui ne provoque pas de scénario ou si l'intention du joueur n'était pas mauvaise. On ne fait pas faire un jet à un joueur pour savoir s'il descend des marches tranquillement sans tomber ou s'il glisse vers une mort certaine. 
+
+Ce sont ces questions qui vont permettre de construire son scénario soit pendant sa préparation soit en live pendant la scéance. Il ne faut pas hésiter à prendre quelques secondes pour réfléchir à tout ça même pendant une scéance.
 
 #### Exemple 
 
@@ -37,25 +49,31 @@ Je me pose donc les questions au dessus dans l'ordre :
 1. C'est la premiere fois que je le fais. Cette scene les fait réfléchir oui ca semble intéressant. Je continue.
 2. C'est le 8e pont que les joueurs traversent. La mécanique devient redondante et la mécanique perd de son attrait, je ne vais pas le refaire et le jet n'est pas intéressant.
  
-**Quelles sont les possibilités de résolution de cette action, si tout se passe bien ?**
-1. Il passe sans problème tout le pont. C'est le cas où je veux juste mettre un peu de stress mais continuer l'histoire.
-2. Il ne passe que la moitié du pont pour ensuite devoir refaire un jet. J'ai envie en tant que MJ qu'un des joueurs tombent pour provoquer une autre action.
-3. Il passe mais le pont s'effondre et les autres devrons trouver une solution.
-4. Il passe le pont mais celui d'après lui va chuter.
+**Quelles sont les conséquences logiques globales de cette action si je propose un jet de dé et que tout se passe bien ?**
+1. Il passe sans problème sur le pont.
+2. Il ne passe que la moitié du pont pour ensuite devoir refaire un jet.
+3. Il passe mais le pont s'effondre et les autres devrons trouver une solution pour passer.
+4. Il passe le pont mais celui après lui va chuter.
 
-**Quelles sont les possibilités de résolution de cette action, si tout se passe mal ?**
-1. Il tombe que de quelques mètres et perd quelques pv.
+**Quelles sont les conséquences logiques globales de cette action si je propose un jet de dé et que tout se passe mal ?**
+1. Il tombe que de quelques mètres et ne perd que quelques pv.
 2. Il tombe du pont mais je laisse au joueur une chance de faire une action qui peut provoquer un nouveau jet de dé (ex: il se rattrape à une des cordes)
 3. Le personnage chute et son destin est alors dans les bras de ses compagnons.
-4. Le personnage meurt.
+4. Le personnage chute il n'a rien mais le groupe va devoir trouver une solution pour le remonter.
+5. Le personnage meurt.
 
 **Si je propose un jet de dé, est ce que je peux assumer les fins que j'ai choisies en tant que MJ ?**
-1. Je n'ai que 2h pour finir ma séance et la chute n'amène rien de passionant pour le jeu. Je ne prends pas le risque de faire un jet. Les joueurs vont finalement passer sans jeter les dés mais avec une narration telle que: "Vous sentez que le pont craque et tremble sous vos pieds. Vous vous dites qu'il faudra faire attention par la suite car les installations ont l'air agées."
-2. J'ai préparé un super truc pour celui qui tombe dans le trou donc oui j'ai tout ce qu'il faut. J'ai une super carte de grotte et une belle armure qui l'attend. Je propose le jet de dés.
+1. Je n'ai que 2h pour finir ma séance et la chute n'amène rien de passionant pour le jeu. Je ne prends donc pas le risque de faire un jet. Les joueurs vont finalement passer sans jeter les dés mais avec une narration telle que: "Vous sentez que le pont craque et tremble sous vos pieds. Vous vous dites qu'il faudra faire attention par la suite car les installations ont l'air agées."
+2. J'ai préparé un super truc pour celui qui tombe dans le trou donc oui j'ai tout ce qu'il faut. J'ai une super carte de grotte et une belle armure qui l'attend. Je propose le jet de dés et j'espere qu'il va tomber.
 3. Je n'ai pas peur de faire une petite heure en freestyle pour les faire remonter le personnage qui est au fond du trou donc oui je le fais.
-4. J'ai trop peur de tuer un de mes joueurs s'il rate. Je préfère ne pas faire de jet finalement ou de changer la mauvaise résolution.
+4. J'ai trop peur de tuer un de mes joueurs s'il rate. Je préfère ne pas faire de jet finalement ou je décide de changer la mauvaise résolution.
 5. Je veux qu'ils travaillent ensemble alors ca vaut le coup de mettre en danger un des joueurs. Oui je continue.
 
+**Est ce que le jet est juste envers les joueurs ?**
+1. Je veux absolument que le joueur tombe alors je vais lui faire faire 20 jets pour que ca se passe. C'est injuste et le joueur a l'air de perdre le controle sur son jeu. Il ne faut pas faire l'action de cette façon.
+2. Le joueur est une tête brulée depuis le début. Il ne prend aucune précaution, je l'ai prévenu plusieurs fois que les cordes avaient des fibres coupées par le temps mais il y se lance en courant dessus. Je choisie que s'il tombe c'est la mort mais je l'ai prévenu plusieurs fois donc je continue car ce n'est pas injuste.
+3. Le joueur réussi son jet de dé mais je le fais tomber quand meme car c'est super en bas. C'est injuste car le MJ raconte son histoire au lieu de laisser la chance et les joueurs le faire aussi.
+4. Le groupe trouve une résolution brillante pour passer qui semble parfaitement sure. Je ne fais pas faire de jet de dés car la chance n'a pas a intervenir ici pour les faire rater.
 
 ### Degrés de difficulté
 
