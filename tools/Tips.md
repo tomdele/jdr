@@ -37,8 +37,10 @@ Prenons le cas d'un pont à traverser qui a l'air peu solide dans un milieu de m
 Je me pose donc les questions au dessus dans l'ordre :
 
 **Est ce que l'action que je propose a du sens dans le scénario ?**
-1. Oui, car je suis dans une montagne sauvage avec pour seul habitant des Aarakocra qui n'utilisent pas les ponts car ils volent. Ils ont été construits des 10ene d'année avant cette aventure.
-2. Non, car des dizaines de personnes le traversent chaque jour et il n y a aucune raison qu'il casse lorsque le groupe arrive.
+1. Oui, car je suis dans une montagne sauvage avec pour seuls habitants des Aarakocra qui n'utilisent pas les ponts car ils volent. Ils ont été construits des 10ene d'années avant cette aventure.
+2. Non, car des dizaines de personnes le traversent chaque jour et il n y a aucune raison qu'il casse de façon magique lorsque le groupe arrive.
+3. Oui, car un méchant tire dessus avec un arc.
+4. Non car je viens de dire que personne n'est venu ici depuis mille ans alors aucun pont ne devrait etre ici.
 
 **Qu'est ce que je veux provoquer via cet événement ?**
 1. Je voudrais montrer aux joueurs, qui viennent d'arriver dans la montagne, qu'elle est particulièrement hostile. Le but est de les stresser sans les punir de trop pour qu'ils soient sur leur garde dans la suite car de grands périls vont arriver et monter crescendo pour l'action.
