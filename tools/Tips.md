@@ -77,7 +77,7 @@ Je me pose donc les questions au dessus dans l'ordre :
 3. Le joueur réussi son jet de dé mais je le fais tomber quand meme car c'est super en bas. C'est injuste car le MJ raconte son histoire au lieu de laisser la chance et les joueurs le faire aussi.
 4. Le groupe trouve une résolution brillante pour passer qui semble parfaitement sure. Je ne fais pas faire de jet de dés car la chance n'a pas a intervenir ici pour les faire rater.
 
-On voit donc qu'une même situation peut amener à de nombreuses résolutions avec ou sans jet de dés, que certaines résolutions sont trop brutales pour être envisagées, que certaines sont simples et sans risque pour le scénario mais peu intéressantes en terme de jeu ou encore que d'autres vont contre l'intéret de la séance qui reste l'amusement de tous. Il faut donc à chaque bien penser si possible à l'avance à ce genre de situations.
+On voit donc qu'une même situation peut amener à de nombreuses résolutions avec ou sans jet de dés, que certaines résolutions sont trop brutales pour être envisagées, que certaines sont simples et sans risque pour le scénario mais peu intéressantes en terme de jeu ou encore que d'autres vont contre l'intéret de la séance qui reste l'amusement de tous. Il faut donc à chaque bien penser à l'impact de ce genre de situations.
 
 ### Degrés de difficulté
 
@@ -90,7 +90,7 @@ Ex de cas limites :
 
 Il est donc important de se dire avant : "il réussi à passer à partir de 14". Quoi qu'il se passe en dessous est un échec et au-dessus une réussite.
 
-Lorsqu'on masterise, il est parfois difficile de trouver une bonne valeur limite pour les jets de dés. Pour s'aider, il faut garder à l'esprit que c'est une difficulté pour le MONDE et pas pour les joueurs. Donc faire un saut périlleux d'un bar pour attraper un lustre et retomber sur un pied sur une poutre est DUR pour n'importe qui dans le monde de Fearun. C'est donc vrai pour un PJ quel que soient sa classe, sa race ou son niveau. Cependant, vu ses caractéristiques l'elfe rogue niveau 17 aura beaucoup plus de chance de réussir qu'un sorcier orque niveau 1.
+Lorsqu'on masterise, il est parfois difficile de trouver une bonne valeur limite pour les jets de dés. Pour s'aider, il faut garder à l'esprit que c'est une difficulté pour le MONDE et pas pour les joueurs. Donc faire un saut périlleux d'un bar pour attraper un lustre et retomber sur un pied sur une poutre est DUR pour n'importe qui dans le monde de Faerun probablement un `18` ou un `20` en acrobatie. La valeur ne doit donc pas changer pour un PJ quel que soient sa classe, sa race ou son niveau. Cependant, vu ses caractéristiques l'elfe rogue niveau 17 aura beaucoup plus de chance de réussir qu'un sorcier orque niveau 1.
 
 Pour ma part, j'ai ça en tête (avec comme exemple un crochetage):
 - `<10` --> pas besoin de jet sauf si le joueur est ultra nul dans la compétence sinon ca fait perdre du temps pour rien
@@ -103,7 +103,7 @@ Pour ma part, j'ai ça en tête (avec comme exemple un crochetage):
 
 Exemple pour un garde très très fort et très bête de reussir un 11 dans les différentes caractéristiques:
 
-| FOR 20 (+4) | DEX 12 (+1) | CON 12 (+1) | INT 6 (-2) | SAG 11 (+0) | CHA 10 (+0)|
+| FOR 18 (+4) | DEX 12 (+1) | CON 12 (+1) | INT 6 (-2) | SAG 11 (+0) | CHA 10 (+0)|
 |:------------|:------------|:------------|:-----------|:------------|:-----------|
 | 70%         | 55%         | 55%         | 40%        | 50%         | 50%        |
 
