@@ -9,7 +9,7 @@ Les jets de dés font partie du jeu de rôle et ont une place très importante d
 ### Buts et conséquences
 Premièrement, on ne demande pas de jet de dés qui n'ont aucune utilité dans un JDR. Cela fait perdre du temps et l'histoire n'en tire aucun avantage. Il faut qu'un jet ait une conséquence lorsqu'on le rate ou le réussi et il faut que cela soit défini avant le jet. 
 
-Prenons le cas d'un pont à traverser qui a l'air peu solide. Tout d'abord je me pose la question de quel type de jet est le plus pertinent à utiliser pour ce cas là ? Ici, si le pont se fracture, probablement `acrobatie` qui définit la capacité d'un personnage à garder son équilibre et son agilité globale. Je définis donc d'abord les résultats d'un échec et d'une réussite.
+Prenons le cas d'un pont à traverser qui a l'air peu solide. Tout d'abord je me pose la question de quel type de jet est le plus pertinent à utiliser pour ce cas là ? Ici, si le pont se fracture, `acrobatie` qui définit la capacité d'un personnage à garder son équilibre et son agilité globale semble la plus appropriée. Je définis donc d'abord les résultats d'un échec et d'une réussite.
 
 Il réussit son jet d'acrobatie :
 * il passe sans problème tout le pont
