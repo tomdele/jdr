@@ -52,7 +52,14 @@ Pour ma part, j'ai ça en tête (avec comme exemple un crochetage):
 - `>= 25` --> très dur (forcer la porte d'un seigneur puissant totalement parano)
 - `>= 30` --> quasi impossible (forcer le coffre secret du maître du conseil de Baldur's Gate)
 
-Globalement, 13 est une action qu'une personne du monde non héro peut faire un peu moins d'une fois sur deux si c'est pas son domaine de prédilection et une fois sur deux s'il est bon dedans. 
+Exemple pour un garde très très fort et très bête de reussir un 11 dans les différentes caractéristiques:
+
+| FOR 20 (+4) | DEX 12 (+1) | CON 12 (+1) | INT 6 (-2) | SAG 11 (+0) | CHA 10 (+0)|
+|:------------|:------------|:------------|:-----------|:------------|:-----------|
+| 70%         | 55%         | 55%         | 40%        | 50%         | 50%        |
+
+
+Pour les PJ, ces valeurs sont souvent plus grandes car les aventuriers possèdent des proficiencies dans certains domaines. Par exemple, si le même garde est un joueur combatant de niveau 9 pour ses jets d'athlétisme, il passe de `+4(mod de force)` en athlétisme à `+4(mod de force)+4(proficiency bonus)`. Il passe donc de `70%` à `90%` de chance de réussir un jet d'athlétisme à `11`.
 
 ### Avantages et Désavantages : 
 
@@ -94,10 +101,10 @@ Ex:
 * Je veux défoncer cette porte. Le MJ demande un jet à 13 d'athlétisme car la porte semble peu solide.
 * Je souhaite trouver un livre sur la magie des fées dans une bibliothèque. Si le livre peut être trouvé alors le MJ me demande un jet d'arcane à 14.  
 
-Il existe 18 compétences détaillées sur les feuilles de joueur que l'on peut utiliser en tant que MJ. Ce serait trop long de décrire tout ici et c'est très bien fait dans le PHB : 175-179. On peut être proficient dans certaines compétences en fonction des backgrounds, classes et races. 
+Il existe 18 compétences détaillées sur les feuilles de joueur basées sur les 6 caractéristiques que l'on peut utiliser en tant que MJ. Ce serait trop long de décrire tout ici et c'est très bien fait dans le PHB : 175-179. On peut être proficient dans certaines compétences en fonction des backgrounds, classes et races. 
 Le jet est : `1d20 + le mod pour la compétence (+ proficiency)`
 
-Un jet de save est un jet en réaction à un effet ou événement qui s'est "déjà produit". Le joueur ne "choisit" pas de faire un jet de save, il tente de minimiser un événement qui a lieu et qui est mauvais pour le joueur. 
+Un jet de save est un jet en réaction à un effet ou événement qui s'est "déjà produit". Le joueur ne "choisit" pas de faire un jet de save, il tente de minimiser un événement qui a lieu et qui est mauvais pour le joueur.\
 Ex :
 - un piège avec des fléchettes est déclenché. Elles peuvent être évitées si le perso est assez rapide --> save à 16 (par exemple) de DEXT
 - un personnage boit un truc empoisonné --> save à 13 de CONST.
@@ -105,10 +112,11 @@ Ex :
 Chaque classe rend un perso proficient dans deux types de saves. Les sauvegardes ne sont pas séparées en sous-sauvegardes comme le sont les checks. Il y en a donc que 6 qui sont les caractéristiques (force, dextérité, constitution, intelligence, sagesse et charisme).
 Le jet est :  `1d20 + le mod pour le save (+ proficiency) `
 
-Il est important de différencier les deux types de jets: check et save pour une même situation.\ 
+Il est important de différencier les deux types de jets, check et save, pour une même situation.\
 Si on prend le cas d'un fruit empoisonné : 
-- Si le joueur vérifie le fruit avant de le manger, c'est une action consciente du joueur. Il doit faire un jet de check de nature ou de médecine pour identifier la menace 
-- Si le joueur mange le fruit, c'est une réaction du joueur qui essaie de ne pas crever : un jet de save de CONST.
+- Le joueur vérifie le fruit avant de le manger, c'est une action consciente du joueur. Il doit faire un jet de check de nature ou de médecine pour identifier la menace
+- Le joueur mange le fruit qui est empoisonné, il va devoir résister (consciemment ou pas) au poison qui entre en lui. C'est un jet de save de CONST
+
   
 ### Les réussites des jets : 
 
@@ -126,7 +134,7 @@ Il existe quelques petits tricks pour rendre son jeu plus sympa pour les joueurs
 #### Cacher ses jets en tant que MJ
 
 En général, il est mieux de cacher ses jets en tant que MJ afin de pouvoir tricher lorsque la narration le demande ou qu'on ne souhaite pas faire un total party kill suite à une erreur de notre part lors de la construction d'un combat. Ca ne veut pas dire qu'il faut tricher sur tous les jets mais plutôt s'autoriser quelques interventions divines parfois pour le fun de la session.\
-De plus, lorsqu'après avoir gardé vos jets cachés pendant plusieurs sessions, vous décidez de faire vos jets devant les joueurs lors d'une scène périlleuse, cela crée une tension et montre votre résolution de grand vilain à lutter contre les joueurs. 
+De plus, après avoir gardé vos jets cachés pendant plusieurs sessions, si vous décidez de faire vos jets devant les joueurs lors d'une scène périlleuse, cela crée une tension et montre votre résolution de grand vilain à lutter contre les joueurs. 
 
 #### Cacher les niveaux de difficulté
 
