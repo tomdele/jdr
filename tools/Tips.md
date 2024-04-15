@@ -20,53 +20,37 @@ Il faut surtout se poser plusieurs questions pour ne pas faire d'erreur que l'on
   
 Prenons le cas d'un pont à traverser qui a l'air peu solide dans un milieu de montagnes. Un joueur s'engage sur le pont. Je me pose alors la question en tant que MJ de faire écrouler le pont. Je me pose donc les questions au dessus dans l'ordre :
 
-Est ce que le jet a du sens dans scénario ?\
-Cas 1 : Oui, car je suis dans une montagne sauvage avec pour seul habitant des Aarakocra qui n'utilisent pas les ponts car ils volent. Ils ont été construits des 10ene d'année avant cette aventure.\
-Cas 2 : Non, car des dizaines de personnes le traversent chaque jour et il n y a aucune raison qu'il casse lorsque le groupe arrive.
+Est ce que le jet a du sens dans scénario ?
+1. Oui, car je suis dans une montagne sauvage avec pour seul habitant des Aarakocra qui n'utilisent pas les ponts car ils volent. Ils ont été construits des 10ene d'année avant cette aventure.
+2. Non, car des dizaines de personnes le traversent chaque jour et il n y a aucune raison qu'il casse lorsque le groupe arrive.
 
-Qu'est ce que je veux provoquer pour ce jet ?\
-Cas 1 : Je voudrais montrer aux joueurs, qui viennent d'arriver dans la montagne, qu'elle est particulièrement hostile. Le but est de les stresser sans les punir de trop pour qu'ils soient sur leur garde dans la suite car de grands périls vont arriver et monter crescendo pour l'action.\
-Cas 2 : Je voudrais faire un embranchement scénaristique où le personnage qui tombe découvre une grotte qui semble un meilleur chemin pour le groupe.\
-Cas 3 : Je voudrais créer de la cohésion pour le groupe et donc les faire s'entraider si un des personnages tombes.\
+Qu'est ce que je veux provoquer pour ce jet ?
+1. Je voudrais montrer aux joueurs, qui viennent d'arriver dans la montagne, qu'elle est particulièrement hostile. Le but est de les stresser sans les punir de trop pour qu'ils soient sur leur garde dans la suite car de grands périls vont arriver et monter crescendo pour l'action.
+2. Je voudrais faire un embranchement scénaristique où le personnage qui tombe découvre une grotte qui semble un meilleur chemin pour le groupe.
+3. Je voudrais créer de la cohésion pour le groupe et donc les faire s'entraider si un des personnages tombes.
 
-Est ce que le jet est intéressant pour le jeu ?\
-Cas 1 : C'est la premiere fois que je le fais. Cette scene les fait réfléchir oui ca semble intéressant. Je continue.\ 
-Cas 2 : C'est le 8e pont que les joueurs traversent. La mécanique devient redondante et la mécanique perd de son attrait, je ne vais pas le refaire et le jet n'est pas intéressant.\
+Est ce que le jet est intéressant pour le jeu ?
+1. C'est la premiere fois que je le fais. Cette scene les fait réfléchir oui ca semble intéressant. Je continue.
+2. C'est le 8e pont que les joueurs traversent. La mécanique devient redondante et la mécanique perd de son attrait, je ne vais pas le refaire et le jet n'est pas intéressant.
  
-Quelles sont les possibilités de résolution de cette action, si tout se passe bien ?\
-Cas 1 : Il passe sans problème tout le pont. C'est le cas où je veux juste mettre un peu de stress mais continuer l'histoire.\
-Cas 2 : Il ne passe que la moitié du pont pour ensuite devoir refaire un jet. J'ai envie en tant que MJ qu'un des joueurs tombent pour provoquer une autre action.\
-Cas 3 : Il passe mais le pont s'effondre et les autres devrons trouver une solution.\
+Quelles sont les possibilités de résolution de cette action, si tout se passe bien ?
+1. Il passe sans problème tout le pont. C'est le cas où je veux juste mettre un peu de stress mais continuer l'histoire.
+2. Il ne passe que la moitié du pont pour ensuite devoir refaire un jet. J'ai envie en tant que MJ qu'un des joueurs tombent pour provoquer une autre action.
+3. Il passe mais le pont s'effondre et les autres devrons trouver une solution.
 
-Quelles sont les possibilités de résolution de cette action, si tout se passe mal ?\
-Cas 1 : Il tombe que de quelques mètres et perd quelques pv.\
-Cas 2 : Il tombe du pont mais je laisse au joueur une chance de faire une action qui peut provoquer un nouveau jet de dé (ex: il se rattrape à une des cordes)
-Cas 3 : Le personnage chute et son destin est alors dans les bras de ses compagnons.\
-Cas 4 : Le personnage meurt.
+Quelles sont les possibilités de résolution de cette action, si tout se passe mal ?
+1. Il tombe que de quelques mètres et perd quelques pv.
+2. Il tombe du pont mais je laisse au joueur une chance de faire une action qui peut provoquer un nouveau jet de dé (ex: il se rattrape à une des cordes)
+3. Le personnage chute et son destin est alors dans les bras de ses compagnons.
+4. Le personnage meurt.
 
-Si je propose le jet de dé, est ce que je peux assumer les fins que j'ai choisies en tant que MJ ?\
-Cas 1 : Je n'ai que 2h de scénario et la chute n'amène rien de passionant pour le jeu. Je ne prends pas le risque de faire un jet . les joueurs vont finalement passer sans jet mais avec une narration du telle que "Vous sentez que le pont craque et tremble sous vos pieds. Vous vous dites qu'il faudra faire attention par la suite car les installations ont l'air agées."
-Cas 2 : Je n'ai pas préparé de cartes pour la 
+Si je propose le jet de dé, est ce que je peux assumer les fins que j'ai choisies en tant que MJ ?
+1. Je n'ai que 2h de scénario et que la chute n'amène rien de passionant pour le jeu. Je ne prends pas le risque de faire un jet. Les joueurs vont finalement passer sans jeter les dés mais avec une narration telle que:  "Vous sentez que le pont craque et tremble sous vos pieds. Vous vous dites qu'il faudra faire attention par la suite car les installations ont l'air agées."
+2. J'ai préparé un super truc pour celui qui tombe dans le trou donc oui j'ai tout ce qu'il faut. J'ai une super carte de grotte et une belle armure qui l'attend. Je propose le jet de dés.
+3. J'ai trop peur de tuer un de mes joueurs s'il rate car ça semble trop injuste de tuer pour un jet raté sans enjeu à la base. Je préfère ne pas faire de jet finalement ou de changer la résolution fatale.
+4. Je veux qu'ils travaillent ensemble alors ca vaut le coup de mettre en danger un des joueurs. Oui je continue.
 
-Tout d'abord, je me pose la question de : est ce que je peux assumer que pont s'effondre ?  Si oui alors je continue la narration. Un joueur s'engage sur le pont qui commence à tomber, quel type de jet est le plus pertinent à utiliser pour ce cas là ? si le personnage decide de courir et sauter au bout, alors `acrobatie` qui définit la capacité d'un personnage à garder son équilibre et son agilité globale semble la plus appropriée. Si le personnage décide de tenir le plus fort possible les cordes du pont alors `athlétisme` aurait été préféré. On doit ensuite définir la résolution de l'action. En effet, une même situation peut amener à plusieurs fins possibles. Dans notre cas, des fins possibles pour les reussites ou echecs sont :
 
-Il réussit son jet d'acrobatie :
-* il passe sans problème tout le pont
-* il ne passe que la moitié du pont pour ensuite devoir refaire un jet
-* le pont s'effondre mais le PJ réussit à passer
-  
-Il rate son jet d'acrobatie:
-* il tombe que de quelques mètres et perd quelques pv
-* il tombe du pont mais vous laissez au joueur une chance de faire une action qui peut provoquer un nouveau jet de dé (ex: il se rattrape à une des cordes)
-* le personnage chute et son destin est alors dans les bras de ses compagnons
-* le personnage meurt
-
-Dans notre cas du pont, le MJ peut vouloir tester ses joueurs sur plusieurs choses et les conséquences doivent être adaptées en fonction:
-- instaurer un climat de stress pour montrer que la zone est dangereuse: perte de quelques pv s'ils ratent.
-- tester l'intelligence du groupe après de multiples rappels que la zone est dangereuse: chute potentiellement mortelle si le personnage n'a pas noué une corde à sa taille ou sécurisé le pont.
-- tester les réflexes du groupe et mettre un sentiment d'urgence : leur collègue tombe de très haut en cas d'échec et le groupe doit trouver une solution en quelques secondes pour le sauver. Le but n'est pas de punir le joueur qui tombe mais de créer du jeu de groupe et de la cohésion donc la chute ne doit pas être mortelle.
-- l'echec du joueur qui tombe dans le trou provoque un embranchement scénaristique et il se retrouve séparé du groupe ou l'équipe doit trouver une solution pour le faire remonter.
-- punir les joueurs trop imprudents ou qui se moquent du scénario: le joueur qui rate se retrouve avec une jambe cassée et ne peut plus courir ou sauter et perd des points de force.
 
 ### Degrés de difficulté
 
