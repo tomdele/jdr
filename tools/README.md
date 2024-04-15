@@ -31,6 +31,7 @@ You can play on a virtual table top :
 - [The encounter builder](https://www.aidedd.org/dnd-encounter/index.php): This gives a quick idea on how difficult an encounter is. Usually you can do 3 to 5 difficult encounters per long rest.
 
 - [Fun and simple ideas for taverns brawling](https://www.dndspeak.com/2018/02/10/100-tavern-encounters/)
+- [Probability for the different dice rolls with advantage or disadvantage](https://statmodeling.stat.columbia.edu/2014/07/12/dnd-5e-advantage-disadvantage-probability/) nice table showing the probability values for a roll to succeed.
 
 ## Others
 
