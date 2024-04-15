@@ -77,6 +77,8 @@ Je me pose donc les questions au dessus dans l'ordre :
 3. Le joueur réussi son jet de dé mais je le fais tomber quand meme car c'est super en bas. C'est injuste car le MJ raconte son histoire au lieu de laisser la chance et les joueurs le faire aussi.
 4. Le groupe trouve une résolution brillante pour passer qui semble parfaitement sure. Je ne fais pas faire de jet de dés car la chance n'a pas a intervenir ici pour les faire rater.
 
+On voit donc qu'une même situation peut amener à de nombreuses résolutions avec ou sans jet de dés, que certaines résolutions sont trop brutales pour être envisagées, que certaines sont simples et sans risque pour le scénario mais peu intéressantes en terme de jeu ou encore que d'autres vont contre l'intéret de la séance qui reste l'amusement de tous. Il faut donc à chaque bien penser si possible à l'avance à ce genre de situations.
+
 ### Degrés de difficulté
 
 Lorsqu'on demande un jet de dé basé sur les compétences des personnages à des joueurs : qualité d'une performance de musique, interactions avec un PNJ, sauter d'un toit..., il faut  absolument définir un niveau de difficulté avant que le joueur ne tire le dé. Cela force le MJ à faire ce qui est décrit au-dessus sur les conséquences et cela permet de fluidifier le jeu et simplifier les décisions pour le MJ. Cela est particulièrement important quand les jets des joueurs sont moyens car le lancé de dé n'aidera pas le MJ à prendre une décision pour la réussite de l'action ou non. 
@@ -110,15 +112,16 @@ Pour les PJ, ces valeurs sont souvent plus grandes car les aventuriers possèden
 
 ### Avantages et Désavantages : 
 
-Les avantages ou désavantages sont une mécanique de jeu qui permet de tirer deux dés et de garder le meilleur ou le moins bon lorsqu'on fait n'importe quel type de jet de dé 20. 
+Les avantages (ou désavantages) sont une mécanique de jeu qui permet de tirer deux dés et de garder le meilleur (ou le moins) bon lorsqu'on fait n'importe quel type de jet de dé 20. 
 
-Pour le désavantage on peut le voir comme cela : si quelque chose vient s'opposer à l'action d'un joueur alors il subira un désavantage. 
+Pour le désavantage, si quelque chose vient s'opposer à l'action d'un joueur alors il subira un désavantage.\
 Cela peut être : porter une armure lourde pour réaliser un jet de discrétion, avoir une blessure à la jambe pour courir, avoir vexé une personne avant de tenter de la persuader de nous aider. 
 
-Pour l'avantage, c'est le même principe : si un joueur possède quelque chose pour l'aider lors d'une interaction avec le monde alors il gagne un avantage. 
+Pour l'avantage, si un joueur est aidé lors d'une intéraction avec le monde alors il gagne un avantage.\
 Cela peut être : avoir une armure elfique qui supprime les bruits de pas lors d'un jet de discrétion, avoir un vent très fort dans le dos pour courir, avoir sauvé les enfants d'une personne avant de la persuader de nous aider. 
 
-Il faut savoir que donner un avantage peut avoir le même effet dans certain cas que baisser la valeur du test de plusieurs unités mais **attention** Ce n'est cependant pas similaire à baisser la valeur d'un test. Il ne faut donc pas le voir comme cela. Par exemple: un jet à `25` ne sera jamais réalisable par un personnage qui a `+3` dans la caractéristique même avec un avantage. Par contre pour un jet à `10`, les chances de réussir en avantage passe de `55%` à `80%` contre `30%` en désavantage. Pour voir les effets vous pouvez consulter cette [page](https://statmodeling.stat.columbia.edu/2014/07/12/dnd-5e-advantage-disadvantage-probability/).
+Il faut savoir que donner un avantage peut avoir, dans certains cas, le même effet que de baisser la valeur du test de plusieurs unités mais **attention** les deux ne sont pas équivalents.\
+Par exemple: un jet à `25` ne sera jamais réalisable par un personnage qui a `+3` dans la caractéristique même avec un avantage. Par contre pour un jet à `10`, les chances de réussir en avantage passe de `55%` à `80%` ce qui est équivalent à baisser la difficulté de `5` et devient `30%` en désavantage ce qui est équivalent à demander un jet à `15`. Pour voir les effets statistiques, vous pouvez consulter cette [page](https://statmodeling.stat.columbia.edu/2014/07/12/dnd-5e-advantage-disadvantage-probability/).
 
 Du point de vue de la narration, il faut voir un jet comme celà : la valeur du jet définit dans le monde si l'action est difficile à réaliser, l'avantage/désavantage définit si on a une aide ou une difficulté pour la réaliser.
 
@@ -140,30 +143,44 @@ Les critiques n'existent **QUE** pour les jets de touche qui deviennent alors de
 
 Cependant, dans les faits, il est plutôt cool de rajouter un bonus en plus pour un succès qui réussit et qui est critique sans que ca devienne quasi divin. Un 20 en histoire pour reconnaître un drapeau peut vous aider à vous rappeler d'un peu de l'histoire de ce pays et pas que de l'emblème. Cependant, ça ne doit pas vous donner une connaissance détaillée d'un pays que vous ne pouvez pas connaître car caché depuis deux siècles.
 
-### Jets de save vs jets de check : 
+### Types de jets
 
-Un jet de check est un jet qui représente la volonté d'un joueur à faire une action. Ce sont les jets qui sont provoqués par les joueurs eux mêmes et qui utilisent une compétence du joueur.\
+Il est parfois difficile pour les MJs novices de choisir entre un jet de skill (compétences) ou de save.
+
+#### Check et Skill rolls 
+
+Un jet de skill est un jet qui représente la volonté d'un joueur à faire une action. Ce sont les jets qui sont provoqués par les joueurs eux mêmes et qui utilisent une compétence du joueur.\
 Ex: 
 * Je suis dans une foule et je veux tenter de ressentir l'ambiance générale de la ville. Il y a beaucoup de bruits et de gens différents, l'action ne semble pas simple et le MJ demande un jet d'insight à 18 par exemple. Je réussis : le MJ me dit que les gens semblent tendus. Certains regards se portent nos armures et tu penses que même si personne ne vous dit rien, les hommes d'armes ne sont pas les bienvenus ici.
 * Je veux défoncer cette porte. Le MJ demande un jet à 13 d'athlétisme car la porte semble peu solide.
 * Je souhaite trouver un livre sur la magie des fées dans une bibliothèque. Si le livre peut être trouvé alors le MJ me demande un jet d'arcane à 14.  
 
-Il existe 18 compétences détaillées sur les feuilles de joueur basées sur les 6 caractéristiques que l'on peut utiliser en tant que MJ. Ce serait trop long de décrire tout ici et c'est très bien fait dans le PHB : 175-179. On peut être proficient dans certaines compétences en fonction des backgrounds, classes et races. 
+Il existe 18 compétences détaillées sur les feuilles de joueur basées sur les 6 caractéristiques que l'on peut utiliser en tant que MJ. Ce serait trop long de décrire tout ici et c'est très bien fait dans le PHB : 175-179. Il est important de noter que l'on peut être proficient dans certaines compétences en fonction de son background, sa classes et sa race ce qui nous apporte un bonus très important.\
 Le jet est : `1d20 + le mod pour la compétence (+ proficiency)`
 
-Un jet de save est un jet en réaction à un effet ou événement qui s'est "déjà produit". Le joueur ne "choisit" pas de faire un jet de save, il tente de minimiser un événement qui a lieu et qui est mauvais pour le joueur.\
+Un check roll est exactement similaire à un skill roll mais utilise les modificateurs des caractéristique nue à la place. Un check roll est donc toujours plus dur à réaliser qu'un skill roll car on ne bénéficie jamais des bonus de proficiency. On utilise les check rolls pour certaines capacités ou sorts explicitées dans les règles ou lorsque l'action ne semble tomber sous aucun type de compétences connues.
+
+#### Jets de save 
+
+Un jet de save est un jet qui arrive en réaction à un effet ou événement qui s'est "déjà produit". Le joueur ne "choisit" pas de faire un jet de save, il tente de minimiser un événement qui a lieu et qui est mauvais pour le joueur.\
 Ex :
 - un piège avec des fléchettes est déclenché. Elles peuvent être évitées si le perso est assez rapide --> save à 16 (par exemple) de DEXT
 - un personnage boit un truc empoisonné --> save à 13 de CONST.
  
-Chaque classe rend un perso proficient dans deux types de saves. Les sauvegardes ne sont pas séparées en sous-sauvegardes comme le sont les checks. Il y en a donc que 6 qui sont les caractéristiques (force, dextérité, constitution, intelligence, sagesse et charisme).
+Chaque classe rend un perso proficient dans deux types de saves. Les sauvegardes ne sont pas séparées en sous-sauvegardes comme le sont les checks. Il y en a donc que 6 qui sont les caractéristiques (force, dextérité, constitution, intelligence, sagesse et charisme).\
 Le jet est :  `1d20 + le mod pour le save (+ proficiency) `
+
+#### Différences
 
 Il est important de différencier les deux types de jets, check et save, pour une même situation.\
 Si on prend le cas d'un fruit empoisonné : 
 - Le joueur vérifie le fruit avant de le manger, c'est une action consciente du joueur. Il doit faire un jet de check de nature ou de médecine pour identifier la menace
 - Le joueur mange le fruit qui est empoisonné, il va devoir résister (consciemment ou pas) au poison qui entre en lui. C'est un jet de save de CONST
 
+Une catapulte lance un caillou sur un joueur:
+- Le joueur décide de tenter d'arreter le caillou avec ses mains alors c'est un jet de skill d'athlétisme ou un check de force.
+- Le joueur essaie de l'éviter ca peut être un jet de skill d'acrobatie.
+- Le joueur ne dit rien alors le MJ va lui faire faire un jet de save de dextérité ou de constitution pour voir s'il arrive a éviter le projectile ou à encaisser le choc.
   
 ### Les réussites des jets : 
 
