@@ -54,7 +54,7 @@ Pour ma part, j'ai ça en tête (avec comme exemple un crochetage):
 
 Globalement, 13 est une action qu'une personne du monde non héro peu faire un peu moins d'une fois sur deux si c'est pas son domaine de prédilection et une fois sur deux s'il est bon dedans. 
 
-## Avantages et Désavantages : 
+### Avantages et Désavantages : 
 
 Les avantages ou désanvantages sont une mécanique de jeu qui permet de tirer deux dés et de garder le meilleur ou le moins bon lorsqu'on fait n'importe quel type de jet de dé 20. 
 
@@ -68,7 +68,7 @@ Il faut savoir que donner un avantage peut avoir le même effet dans certain cas
 
 Du point de vue de la narration, il faut voir un jet comme celà : la valeur du jet définit dans le monde si l'action est difficile à réaliser, l'avantage/desavantage définit si on a une aide ou une difficulté pour la réaliser.
 
-### Regles
+#### Regles sur les avantages
 
 Un désavantage + un avantage s'annule: 
 avantage + desavantage =  un jet normal
@@ -80,9 +80,20 @@ avantage + avantage + desavantage =  un jet normal
 
 Cependant, comme dans tout JDR c'est au MJ de décider comment il applique ça.
 
-## Jets de save vs jets de check : 
+### Critiques
 
-Un jet de check est un jet qui représente la réussite ou non d'une action, plus ou moins difficile, choisie d'un joueur. Ex: Je suis dans une maison et je vois un symbole qui représente un clan. Je veux savoir si je le connais ou pas : le MJ demande un jet d'histoire à 13 par exemple.\
+Les critiques n'existent **QUE** pour les jets de touche qui deviennent alors des touches automatiques. Contrairement à ce qu'on pense souvent, il n'existe pas de critical success sur des jets de save ou de skills. En effet, cela n'a pas forcement de sens de parler de crit pour un skill puisque le MJ peu demander plus qu'un 20 naturel pour le réussir. Par exemple : si on souhaite intimider un demi dieu le skill check sera peut etre de 30. Il ne fait donc aucun sens que notre halfling qui par chance fait 20 sans bonus de charisme réussisse tout de même.
+
+Cependant, dans les faits, il est plutot cool de rajouter un bonus en plus pour un succes critique sans que ca deviennent quasi divin. Un 20 en histoire ne vous donne pas une connaissance détaillée de tous les drapeaux d'un pays que vous ne connaissez pas.
+
+### Jets de save vs jets de check : 
+
+Un jet de check est un jet qui représente volonté d'un joueur à faire une action. Ce sont les jets qui sont provoqués par les joueurs eux mêmes et qui utilisent une compétence du joueur.\
+Ex: 
+* Je suis dans une foule et je veux tenter de ressentir l'ambiance générale de la ville. Il y a beaucoup de bruits et de gens différents l'action ne semble pas simple et le MJ demande un jet d'insight à 18 par exemple. Je réussis : le MJ me dit que les gens semblent tendus. Certains regards se portent nos armures et tu penses que même si personne ne vous dit rien, les hommes d'armes ne sont pas les bienvenus ici.
+* Je veux défoncer cette porte. Le MJ demande un jet à 13 d'athletisme car la porte semble peu solide.
+* Je souhaite trouver un livre sur la magie des fées dans une bibliothèques. Si le livre peut etre trouvé alors le MJ me demande un jet d'arcane à 14.  
+
 Il existe 18 compétences détaillées sur les feuilles de joueur que l'on peut utiliser en tant que MJ. Ce serait trop long de décrire tout ici et c'est très bien fait dans le PHB : 175-179. On peut être proficient dans certaines compétences en fonction des backgrounds, classes et races. 
 Le jet est : 1d20 + le mod pour la compétence (+ profiency)
 
@@ -100,6 +111,28 @@ Les checks >= DC (difficulty challenge)
 Les saves >= DC
 Les deaths >= 10
 
+### Conseils aux MJS
+
+Il existe quelques petits tricks pour rendre son jeu plus sympa pour les joueurs basé uniquement sur les jets de dés. 
+
+#### Cacher ses jets en tant que MJ
+
+En général, il est mieux de cacher ses jets en tant que MJ afin de pouvoir tricher lorsque la narration le demande ou qu'on ne souhaite pas faire un total party kill suite à une erreur de notre part lors de la construction d'un combat. Ca ne veut pas dire qu'il faut tricher sur tous les jets mais plutot s'autoriser quelques interventions divines parfois pour le fun de la session.\
+De plus, lorsqu'après avoir gardé vos jets cachés pendant plusieurs sessions, vous décidez de faire vos jets devant les joueurs lors d'une scene périeuse, cela crèe une tension et montre votre résolution de grand vilain à luter contre les joueurs. 
+
+#### Cacher les niveaux de difficulté
+
+Une des choses importantes avec les jets en tant que MJ est de parfois dire le niveau de difficulté et parfois de le cacher. Un des cas les plus classiques reste lorsqu'un personnage recherche quelque chose. Si le joueur rate, il ne doit pas savoir si c'est parce qu'il a raté son jet ou si ce qu'il cherche n'existe pas.\
+Ex: joueur cherche un ouvrage dans une bibliothèque, il ne doit pas savoir s'il a raté sa recherche ou si l'établissement n'a tout simplement pas le livre. Vous proposez alors dans tous les cas un jet d'arcane et même si le joueur fait un très bon jet vous ne lui dites pas si le livre existe ou pas mais simplement : "Tu ne trouves rien.". Dans le cas special d'une réussite critique (20 naturel) il est possible de dire que "tu as vraiment cherché avec attention et tu es certain de ne rien avoir vu de la sorte dans la bibliotheque.".
+
+#### Les jets pour l'ambiance
+
+Il est parfois drôles de faire des jets en tant que MJ pour aucune autre raison que l'ambiance. Le MJ pendant une seance peut lancer des jets de dés cachés qui n'ont aucune utilité. Si cela est fait rarement et correctement, ça peut renforcé la tension au sein de la table de jeu. Les joueurs se demandent alors pourquoi le MJ lance des dés et se sentent menacés ou observés.
+
+Il est aussi possible de faire lancer des dés pour rien aux joueurs. Par exemple : "Fait moi un jet de perception stp. Hum ok, tu vois rien." quelque soit la valeur de dé du joueur. Cela peut mettre aussi une ambiance stressante utile pour la session.
+
+Il est donc à noter que ces jets ne sont pas inutiles car ils jouent avec le "meta-jeu" des lancers de dés pour créer quelque chose. Un jet inutile est de demander un jet sans but.
+
 ## Discussion avec les PNJs
 
 Il y existe plusieurs façons pour les PJs d'interagir avec un PNJ et donc différentes mécaniques de jeu. Et il est parfois compliqué de faire la distinction entre : discussion normale, persuasion, deception et intimidation.
@@ -108,3 +141,71 @@ Il y existe plusieurs façons pour les PJs d'interagir avec un PNJ et donc diff�
 - Persuasion : le PJ tente d'obtenir une chose d'un PNJ en utilisant son charme et / ou un discours orienté. Le PJ doit faire un jet de persuasion pour voir s'il peut convaincre le PNJ. La difficulté du jet est défini par la difficulté à convaincre la personne (ex : un paysan ou un marchant aguerri) et les arguments débiles ou non du PJ ou sa relation avec la personne interrogée (je suis le livreur de pizza dans une caserne vs je suis la relève de la garde déguisé en garde de la ville). En général dans un cadre normal (hors infiltration) si le PJ rate son jet de persuasion il n y a pas de conséquence forte pour le PJ. 
 - Deception : le PJ ment à la personne en face pour obtenir quelque chose. Le PNJ peut le sentir ou non en fonction de sa capacité d'insight. Le PJ fait donc un jet de deception et le PNJ un jet opposé de insight. Si le PJ réussi alors la personne ne voit pas qu'il ment. Autrement, le PNJ remarque que le PJ ment et en fonction de la situation cela peut avoir des répercussions plus graves que la persuasion. 
 - Intimidation : le PJ essaie par la violence (orale et possiblement avec un appui physique) d'obtenir qqch d'un PNJ. Il fait donc un jet d'intimidation avec un niveau qui va dépendre de la personne en face. Un garde est moins sujet à l'intimidation qu'un enfant. Si l'intimidation rate, il y a de fortes chances pour que des répercussions importantes arrivent. Le PNJ peut ne plus vouloir parler au PJ, un combat peut s'engager, le PJ peut se mettre à dos tout un clan.
+
+## Personnage à terre 
+
+Lorsqu'un personnage est à terre il existe deux phases qu'on va expliquer ici.
+
+### Personnage à 0 PV 
+
+Si un perso tombe à zéro PV, il est considéré comme inconscient et en danger. On peut imaginer ça comme une personne inconsciente qui saigne et qui doit être stabilisée.
+
+Plusieurs mécaniques sont possibles à partir de ce point: 
+- Le personnage a pris assez de dégâts pour tomber en dessous de son total de point de vie en négatif. Il meurt instantanément. Ex : il a 11 PV max, il est à 2 PV et prend 10 dégats, il meurt instantanément. 
+- Si le joueur est simplement en dessous de zéro, il doit faire des jets de sauvegarde contre la mort. Ces jets ne possèdent ni modificateur ni avantage. Si le joueur fait plus ou égal à 10 alors il gagne un point de succès, s'il fait moins que 10 il gagne un point de ratage. Si le joueur arrive a avoir 3 succès il devient stable, s'il a 3 fails il meurt. Un 1 compte comme 2 ratés d'un coup, un 20 comme 2 succès d'un coup. Si le personnage inconscient prend un coup alors qu'il est à terre il prend un point de mort en plus. 
+ Lorsqu on est stable on reset tous les points de sauvegarde contre la mort. 
+- Un autre joueur utilise la compétence médecine sur le joueur en train de mourir : il faut réussir un jet de médecine >= 10 pour le stabiliser. S'il rate rien ne se passe.
+- Un autre joueur utilise un sort ou potion de soin. Le joueur revient en jeu immédiatement avec le nombre de point de vie redonné par l'autre joueur. Il n'y a pas de question de points de vie négatifs dans cette édition. i.e. : un joueur est unstable à -15 HP et un joueur lui redonne 5 HP, le joueur inconscient revient avec 5 HP.
+
+Il est a noter que tout le monde peut décréter un coup comme non mortel. Dans ce cas si la créature tombe en dessous de 0 PV elle est tout de suite stabilisée.
+
+### La mort 
+
+Un personnage peut mourir s'il rate 3 jets de sauvegarde contre la mort ou s'il subit un truc très grave du type : chute de 150m, tombe dans la lave etc...
+Dans dnd la mort est un truc qui arrive. Il faut le considérer et l'accepter même si on aime le joueur et le personnage. 
+Il existe plusieurs sorts qui permettent d'empêcher cela tout de même : 
+Gentle Repose (qui permet de tenir un corps en état pendant 10 jour) Revivify (qui ressuscite un collègue s'il est mort depuis moins de 1min) , Raise Dead (qui ressuscite un collègue s'il est mort depuis moins de 10 jours sans partie corps importante qui manque), Reincarnate (Réincarnation dans une autre race) et True Resurrection (comme neuf).
+
+Si le personnage meurt, pensez à le mettre en scène correctement (derniers mots, un journal, une cérémonie) car ça reste un moment triste pour le joueur avant de faire un nouveau perso.
+
+## Les repos 
+
+Pour moi c'est la partie la plus difficile du jeu en tant que MJ. Il n'existe aucune vraie règle pour définir quand les persos doivent dormir et c'est en général aux joueurs de choisir et au MJ de voir si c'est ok dans la narration et le jeu. Cependant, c'est très important d'y réfléchir correctement car c'est une des mécaniques les plus risquées du jeu et une façon d'équilibrer les rencontres.
+Les seules règles non écrites que j'utilise sont : 
+- Pas de long rest dans les donjons SAUF : s'ils sont très très longs ou que les joueurs trouvent un super truc et qu'il n y a pas de notion d'urgence. 
+- Deux short rests par long rest (ca peut etre plus)
+- Il est de bon ton de lancer des petits signes (jet de perception : vous entendez les 15 gardes bien en place qui attendent ) si les joueurs n'ont plus aucune compétence et qu'ils vont tomber sur un boss intuable sans leur compétences. Personne ne veut un full party kill.
+Mais c'est vraiment à l'appréciation du MJ au final en fonction de son histoire. 
+
+
+### Regles 
+
+Pour les long rests : 
+Simple : les persos regagnent toutes leur compétences, sorts et HP. Les persos regagnes 1/2 * niveau Hit Dice arrondi vers le bas.
+
+Pour les short rests : 
+Certaines compétences ou sorts sont rechargés lors d'une short rest. C'est notamment le cas pour les spell slots des warlocks. Pour les points de vie, les joueurs peuvent dépenser des Hit Dices et regagner : N x (Hit Dice + Const Mod)
+
+Hit Dices :
+La valeur des Hit Dices est égale au dé de vie que vous tirez pour les passages de niveaux (ex: d10 pour les paladins). Vous avez une réserve de Hit Dice egale à votre niveau. 
+Ex d'utilisation : 
+Je suis paladin niveau 5 : j'ai 5 Hit Dices en réserve. Et une const de 14 (donc mod = +2)
+Lors d'une short rest, je peux claquer entre 0 et 5 Hit Dice de ma réserve. J'en claque 3. Je regagne : 3d10 + 6. Par la suite, à la fin de ma longue rest, je regagne 5x0.5 = 2 Hit Dices pour revenir à une réserve de 4 Hit Dices. 
+
+## Les récompenses et items : 
+
+C'est pour moi, la deuxième chose la plus dure à faire en tant que MJ dans le jeu. En effet, il faut faire très attention aux objets que l'on donne. Pour moi, il faut si possible : qu'ils aient une "ame" ou  qu'ils complètent les persos (l'épée de Zagreus, bracelet de Seko) et qu'ils puissent etre utilisés avec intelligence et fun (genre la veste de Jandar est un super item, et le baton de gris qui cree un arbre je trouve ca super cool aussi).
+
+Cependant, il faut faire attention à ce qu'ils ne cassent pas le jeu totalement. Les objets qui cassent le jeu sont ceux qui rendent des phases de gameplay moins pertinentes et/ou bloquent totalement certains trucs qui pourraient être fun. Par exemple : les bottes volantes qui vont rendre tous les scénarios avec des zones un peu verticales stupidement simples. La Decanter of Endless Water qui donne de l'eau à volonté aurait tué le scénario de pierrot. Un truc qui rend ultra fort dans une caractéristique comme les ceintures de géants qui font que le joueur va toujours toucher sa cible. 
+Je ne dis pas qu'il ne faut jamais donner ces objets MAIS il faut y penser à deux fois pour voir si le jeu restera intéressant apres ca. 
+
+Penser aux objets avec peu d'utilisations par long rest, aux parchemins et consommables qui sont des bonnes options pour ne jamais casser le jeu.
+
+Pour avoir une idée aussi des +N/+N par niveau : 
+armes +1/+1 niveau 5-10
+armes +2/+2 niveau 10-15
+armes +3/+3 niveau 15-20
+
+Pour les armures, il faut faire plus attention car une armure +N impacte plus le gameplay qu'une arme +N/+N. Si votre tank se retrouve avec des CA de 24 ou plus il devient totalement insensible à tous les ennemis de bas niveau. Donc il peut entrer dans une ville et tuer tout le monde sans que personne ne puisse le toucher like a boss (zagreus serait heureux). 
+
+Je donne ici un document très intéressant pour vous donner une idée des prix et des problèmes avec les items. 
