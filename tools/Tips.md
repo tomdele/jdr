@@ -178,9 +178,9 @@ Si on prend le cas d'un fruit empoisonné :
 - Le joueur mange le fruit qui est empoisonné, il va devoir résister (consciemment ou pas) au poison qui entre en lui. C'est un jet de save de CONST
 
 Une catapulte lance un caillou sur un joueur:
-- Le joueur décide de tenter d'arreter le caillou avec ses mains alors c'est un jet de skill d'athlétisme ou un check de force.
+- Le joueur décide de tenter d'arreter le caillou avec ses mains alors c'est un jet de skill d'athlétisme ou un check de force. S'il rate, il va devoir faire un jet de save de force pour savoir s'il tombe en plus d'être blessé.  
 - Le joueur essaie de l'éviter ca peut être un jet de skill d'acrobatie.
-- Le joueur ne dit rien alors le MJ va lui faire faire un jet de save de dextérité ou de constitution pour voir s'il arrive a éviter le projectile ou à encaisser le choc.
+- Le joueur ne dit rien ou son action est déjà passée dans un combat alors le MJ va lui faire faire un jet de save force pour voir s'il arrive à encaisser le choc et ne pas tomber.
   
 ### Les réussites des jets : 
 
@@ -231,11 +231,10 @@ Lorsqu'un personnage est à terre, il existe deux phases qu'on va expliquer ici.
 Si un perso tombe à zéro PV, il est considéré comme inconscient et en danger. On peut imaginer ça comme une personne inconsciente qui saigne et qui doit être stabilisée.
 
 Plusieurs mécaniques sont possibles à partir de ce point: 
-- Le personnage a pris assez de dégâts pour tomber en dessous de son total de points de vie en négatif. Il meurt instantanément. Ex : il a 11 PV max, il est à 2 PV et prend 14 dégâts, il meurt instantanément car ` 2-14 = -12 < -11 `
-- Si le joueur est simplement en dessous de zéro, il doit faire des jets de sauvegarde contre la mort. Ces jets ne possèdent ni modificateur ni avantage. Si le joueur fait un jet supérieur ou égal à 10, alors il gagne un point de succès, s'il fait moins que 10 il gagne un point d'échec. Si le joueur arrive a avoir 3 succès il devient stable, s'il a 3 fails il meurt. Un 1 au dé compte comme 2 ratés d'un coup, un 20 comme 2 succès d'un coup. Si le personnage inconscient non stabilisé prend un coup, il prend un point de mort automatique si c'est une attaque à distance et 2 si c'est une attaque au corps à corps car c'est un auto-critique. 
- Lorsqu' on est stable on reset tous les points de sauvegarde contre la mort. 
-- Un autre joueur utilise la compétence médecine sur le joueur en train de mourir : il faut réussir un jet de médecine >= 10 pour le stabiliser. S'il rate, rien ne se passe.
-- Un autre joueur utilise un sort ou potion de soin. Le joueur revient en jeu immédiatement avec le nombre de points de vie redonnés par l'autre joueur. Il n'y a pas de question de points de vie négatifs dans cette édition. i.e. : un joueur est instable à -15 HP et un joueur lui redonne 5 HP, le joueur inconscient revient avec 5 HP.
+- Si le personnage a pris assez de dégâts pour tomber en dessous de son total de points de vie max en négatif, il meurt instantanément. Ex : il a 20 PV max, il est à 5 PV et prend 26 dégâts, il meurt instantanément car ` 5-26 < -20 `
+- Si le joueur est simplement en dessous de zéro, il doit faire des jets de sauvegarde contre la mort. Ces jets ne possèdent ni modificateur ni avantage. Si le joueur fait un jet supérieur ou égal à 10, alors il gagne un point de succès, s'il fait moins que 10 il gagne un point d'échec. Si le joueur arrive a avoir 3 succès il devient stable, s'il a 3 ratés, il meurt. Un 1 au dé compte comme 2 ratés d'un coup, un 20 comme 2 succès d'un coup. Si le personnage inconscient non stabilisé prend un coup, il prend des points de mort automatique : 1 si c'est une attaque à distance et 2 si c'est une attaque au corps à corps car c'est un auto-critique. Lorsqu' on est stable on reset tous les points de sauvegarde contre la mort. 
+- Si un autre joueur utilise la compétence médecine sur le joueur en train de mourir : il faut réussir un jet de médecine >= 10 pour le stabiliser. S'il rate, rien ne se passe.
+- Si un autre joueur utilise un sort ou potion de soin. Le joueur revient en jeu immédiatement avec le nombre de points de vie redonnés par l'autre joueur. Il n'y a pas de question de points de vie négatifs dans cette édition. i.e. : un joueur est instable à -15 HP et un joueur lui redonne 5 HP, le joueur inconscient revient avec 5 HP.
 
 Il est à noter que tout le monde peut décréter un coup comme non mortel. Dans ce cas, si la créature tombe en dessous de 0 PV elle est tout de suite stabilisée.
 
@@ -244,17 +243,17 @@ Il est à noter que tout le monde peut décréter un coup comme non mortel. Dans
 Un personnage peut mourir s'il rate 3 jets de sauvegarde contre la mort ou s'il subit un truc très grave du type : chute de 150m, tombe dans la lave etc...
 Dans dnd la mort est un truc qui arrive. Il faut le considérer et l'accepter même si on aime le joueur et le personnage. 
 Il existe plusieurs sorts qui permettent d'empêcher cela tout de même : 
-* Gentle Repose qui permet de tenir un corps en état pendant 10 jour
-* Revivify qui ressuscite un collègue s'il est mort depuis moins de 1min
-* Raise Dead qui ressuscite un collègue s'il est mort depuis moins de 10 jours sans partie corps importante qui manque
-* Reincarnate qui réincarne un collègue même s'il est en pièces tant qu'il est mort il y a moins de 10 jours dans un nouveau corps tiré au hazard
-* True Résurrection qui fait revivre n'importe qui qui n'est pas mort depuis plus de 200 ans et qui le guéri de tout (coute 25000 pieces d'or tout de même)
+* `Gentle Repose` qui permet de tenir un corps en état pendant 10 jour. Attention ça ne remet pas en vie.
+* `Revivify` qui ressuscite un collègue à 1pv s'il est mort depuis moins de 1min mais ne fait pas repousser les parties de corps manquantes. 
+* `Raise Dead` qui ressuscite un collègue  à 1pv s'il est mort depuis moins de 10 jours sans partie de corps importante qui manque. Peut guérir certains effets.
+* `Reincarnate` qui réincarne un collègue même s'il est en pièces s'il est mort il y a moins de 10 jours. Cependant il est réincarné dans un nouveau corps créé par magie et tiré au hazard.
+* `True Résurrection` qui fait revivre n'importe qui qui n'est pas mort depuis plus de 200 ans et qui le guéri de tout (coute 25000 pieces d'or tout de même).
 
 Si le personnage meurt, pensez à le mettre en scène correctement (derniers mots, un journal, une cérémonie) car ça reste un moment triste pour le joueur avant de faire un nouveau personnage.
 
 ## Les repos 
 
-Pour moi c'est la partie la plus difficile du jeu en tant que MJ. Il n'existe aucune vraie règle pour définir quand les persos doivent dormir et c'est en général aux joueurs de choisir et au MJ de voir si c'est ok dans la narration et le jeu. Cependant, c'est très important d'y réfléchir correctement car c'est une des mécaniques les plus risquées du jeu (vos joueurs peuvent arriver devant le super boss sans vie ni sorts) et une façon d'équilibrer les rencontres.
+Pour moi c'est la partie la plus difficile du jeu en tant que MJ. Il n'existe aucune vraie règle pour définir quand les persos doivent dormir et c'est en général aux joueurs de choisir et au MJ de voir si c'est ok dans la narration et le jeu. Cependant, c'est très important d'y réfléchir correctement car c'est une des mécaniques les plus risquées du jeu car vos joueurs peuvent arriver devant le super boss sans vie ni sorts. Cependant, c'est aussi une très bonne façon d'équilibrer et de pimenter les combats lorsque les spell slots commencent à manquer.
 
 Les seules règles non écrites que j'utilise sont : 
 - Pas de long repos dans les donjons SAUF si le donjon est très très long ou que les joueurs trouvent un truc intelligent et qu'il n y a pas de notion d'urgence
@@ -278,8 +277,8 @@ Je suis paladin niveau 5, je fais une short rest. J'ai 5 Hit Dices en réserve e
 ## Les récompenses et items
 
 C'est pour moi, la deuxième chose la plus dure à faire en tant que MJ dans le jeu.\
-En effet, il faut faire très attention aux objets que l'on donne. Il faut, si possible que les objets aient une "âme", permettent des moments créatifs et qu'ils complètent les personnages qui les détiennent. Dans dnd, les personnages sont vraiment guidés en terme d'avancement dans les niveaux et ce qui va différencier 2 soldats par exemple sera leur équipement.\
-Il faut que les objets puissent être utilisés avec intelligence et fun. En ça, une simple épée +1 par exemple n'est pas extrèmement intéressante à donner car c'est de la pure mécanique de jeu. Au lieu de faire des touches à `+6` ce sera `+7`. Alors, qu'une épée `+0` qui ne coupe pas la chair humaine peut donner lieu à des scènes incroyables et du gameplay très fun.
+En effet, il faut faire très attention aux objets que l'on donne. Il faut, si possible que les objets aient une "âme", permettent des moments créatifs et qu'ils complètent les personnages qui les détiennent. Dans dnd, les personnages sont vraiment guidés en terme d'avancement lors des passages de niveaux et ce qui va différencier 2 fighters par exemple sera leur équipement.\
+Il faut que les objets puissent être utilisés avec intelligence et fun. En ça, une simple épée +1 par exemple n'est pas extrèmement intéressante à donner car c'est de la pure mécanique mathématique de jeu : au lieu de faire des touches à `+6` ce sera `+7`. Alors, qu'une épée `+0` mais qui ne coupe pas la chair humaine peut donner lieu à des scènes incroyables et du gameplay très fun. Ou une dague qui permet de créer des zones d'ombre ou de se téléporter 2 fois pas jour quand on la lance.
 
 Cependant, il faut faire attention à ce que les récompenses ne cassent pas le jeu totalement. Les objets qui cassent le jeu sont ceux qui rendent des phases de gameplay moins pertinentes et/ou intéressantes. Par exemple : des bottes volantes vont rendre tous les scénarios avec des zones un peu verticales stupidement simples. La `Decanter of Endless Water`, qui donne de l'eau à volonté, peut tué un scénario où la soif est une mécanique de jeu. Un objet qui rend très fort dans une caractéristique peut aussi déséquilibrer le jeu pour un personnage ou faire que ce personnage réalise toujours la ou les mêmes actions.\
 Je ne dis pas qu'il ne faut jamais donner ce type d'objets MAIS il faut y penser à deux fois pour voir si le jeu reste intéressant après ça. 
