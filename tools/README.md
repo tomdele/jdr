@@ -9,7 +9,8 @@ Here are some useful tools for playing dnd online.
 
 # Items and prices
 
-- [5e normal item prices](https://www.kassoon.com/dnd/5e/magic-item-prices/)
+- [5e normal item prices](https://www.kassoon.com/dnd/5e/magic-item-prices/): This uses the normal dnd prices based of the item's rarity. This is pretty bad tbh. 
+- [5e sane magical prices](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view?resourcekey=0-ceHUken0_UhQ3Apa6g4SJA): This is a really good and useful tool to price your magical items. Basically, the dnd books are terrible at giving prices that make sense in the world economy of Faerun. This list is much much better than pretty much everything from wizard of the coast. 
 
 ## Discord
 
