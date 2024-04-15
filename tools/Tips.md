@@ -8,7 +8,7 @@ Les jets de dés font partie du jeu de rôle et ont une place très importante d
 
 ### Buts et conséquences d'un événement avec jet de dés
 
-Une des beautés du JDR est que l'histoire n'est pas connue à l'avance. C'est une histoire collaborative où le MJ, les joueurs et la chance participent. Cela crèe des choses superbes mais aussi de sacrés casses têtes au MJ parfois. Il faut toujours garder à l'esprit que de faire faire un jet est presque toujours un embranchement possible du scénario et qu'il peut avoir de grosses conséquences pour la suite de la campagne. C'est pourquoi avant de proposer une action avec un jet de dé, il faut se poser plusieurs questions pour ne pas faire d'erreur que l'on va regreter par la suite : 
+Une des beautés du JDR est que l'histoire n'est pas connue à l'avance. C'est une histoire collaborative où le MJ, les joueurs et la chance participent. Cela crèe des choses superbes mais aussi de sacrés casses têtes au MJ parfois. Il faut toujours garder à l'esprit que de faire faire un jet est presque toujours un embranchement possible du scénario et qu'il peut y avoir de grosses conséquences pour la suite de la campagne. C'est pourquoi avant de proposer une action avec un jet de dé, il faut se poser plusieurs questions pour ne pas faire d'erreur que l'on va regreter par la suite : 
 
 Est ce que l'action que je propose a du sens dans le scénario ? 
 > On doit utiliser le jet pour faire avancer l'histoire ou créer des embranchements possibles. L'action doit aussi avoir un sens dans l'univers pour ne pas paraître injuste ou aléatoire.
