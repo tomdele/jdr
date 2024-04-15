@@ -32,7 +32,7 @@ Dans notre cas du pont, le MJ peut vouloir tester ses joueurs sur plusieurs chos
 
 ### Degrés de difficulté
 
-Lorsqu'on demande un jet de dé basés sur les compétences des personnages à des joueurs : qualité d'une performance de musique, interactions avec un PNJ, sauter d'un toit..., il faut  absolument définir un niveau de difficulté avant que le joueur ne tire le dé. Cela force le MJ à faire ce qui est décrit au dessus sur les conséquences et cela permet de fluidifier le jeu et simplifier les décisions pour le MJ. Cela est particulièrement important quand les jets des joueurs sont moyens car le lancé de dé n'aidera pas le MJ à prendre une décision pour la réussite de l'action ou non. 
+Lorsqu'on demande un jet de dé basé sur les compétences des personnages à des joueurs : qualité d'une performance de musique, interactions avec un PNJ, sauter d'un toit..., il faut  absolument définir un niveau de difficulté avant que le joueur ne tire le dé. Cela force le MJ à faire ce qui est décrit au dessus sur les conséquences et cela permet de fluidifier le jeu et simplifier les décisions pour le MJ. Cela est particulièrement important quand les jets des joueurs sont moyens car le lancé de dé n'aidera pas le MJ à prendre une décision pour la réussite de l'action ou non. 
 
 Ex de cas limites :
 - le joueur dit qu'il passe le pont --> le joueur fait 18. Ok tu réussis.
@@ -56,13 +56,19 @@ Globalement, 13 est une action qu'une personne du monde non héro peu faire un p
 
 ## Avantages et Désavantages : 
 
-Les avantages ou désanvantages peuvent être définis par des mécaniques de jeu : un sort qui donne l'avantage aux attack rolls par exemple OU par le MJ sous certaines conditions. 
+Les avantages ou désanvantages sont une mécanique de jeu qui permet de tirer deux dés et de garder le meilleur ou le moins bon lorsqu'on fait n'importe quel type de jet de dé 20. 
 
-Pour le désavantage on peut le voir comme cela : si quelque chose vient s'opposer à l'action d'un joueur alors il aura un désavantage imposé par le MJ. 
-Ca peut etre : porter une armure lourde pour les jets de discrétion, avoir une blessure à la jambe pour courir, avoir vexé une personne avant de tenter de la persuader etc ... 
+Pour le désavantage on peut le voir comme cela : si quelque chose vient s'opposer à l'action d'un joueur alors il subira un désavantage. 
+Cela peut etre : porter une armure lourde pour réaliser un jet de discrétion, avoir une blessure à la jambe pour courir, avoir vexé une personne avant de tenter de la persuader de nous aider. 
 
-Pour l'avantage, c'est la même : si un joueur possède quelque chose pour l'aider lors d'une intéraction avec le monde alors il va gagner un avantage. 
-Ca peut être : du vent fort dans le dos pour un saut, de l'aide d'un autre joueur pour soulever un sarcophage, il propose de l'argent à une personne en même temps qu il la persuade. 
+Pour l'avantage, c'est le même principe : si un joueur possède quelque chose pour l'aider lors d'une intéraction avec le monde alors il va gagner un avantage. 
+Cela peut être : avoir une armure elfique qui supprime les bruits de pas lors d'un jet de discrétion, avoir un vent très fort dans le dos pour courir, avoir sauvé les enfants d'une personne avant de la persuader de nous aider. 
+
+Il faut savoir que donner un avantage peut avoir le même effet dans certain cas que baisser la valeur du test de plusieurs unités mais **attention** ce n'est cependant pas similaire à baisser la valeur d'un test. Il ne faut donc pas le voir comme cela. Par exemple: un jet à `25` ne sera jamais réalisable par un personnage qui a `+3` dans la caractéristique même avec un avantage. Par contre pour un jet à `10`, les chances de réussir en avantage passe de `55%` à `80%` contre `30%` en désavantage. Pour voir les effets vous pouvez consulter cette [page](https://statmodeling.stat.columbia.edu/2014/07/12/dnd-5e-advantage-disadvantage-probability/).
+
+Du point de vue de la narration, il faut voir un jet comme celà : la valeur du jet définit dans le monde si l'action est difficile à réaliser, l'avantage/desavantage définit si on a une aide ou une difficulté pour la réaliser.
+
+### Regles
 
 Un désavantage + un avantage s'annule: 
 avantage + desavantage =  un jet normal
