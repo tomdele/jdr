@@ -1,0 +1,6 @@
+#Rolls + #Charisma-bonus + ?{Saves |Strength, 3|
+Dexterity, 0|
+Constitution, 2|
+Intelligence, -1|
+Wisdom, 3|
+Charisma, 7}

@@ -1,0 +1,18 @@
+#Rolls + ?{Skills|Acrobatics, 0|
+Animal Handling, 0|
+Arcana, -1|
+Athletics, 6|
+Deception, 4|
+History, -1|
+Insight, 3|
+Intimidation,7|
+Investigation,-1|
+Medicine,0|
+Nature,-1|
+Perception,0|
+Performance,4|
+Persuasion,7|
+Religion,-1|
+Sleight of Hand, 0|
+Stealth,0|
+Survival,0}

@@ -1,0 +1,1 @@
+/roll ?{Weapon |Flame sword, #Flame-sword-damage |Warhammer,  1d8 |Dagger, 1d4} + #Strength-bonus 

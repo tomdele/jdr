@@ -1,0 +1,1 @@
+&{template:default} {{name=Init}} {{Seko=[[1d20+4]]}} {{Amergeïn=[[1d20+3]]}} {{Balthazar=[[1d20+3]]}} {{Jandar=[[1d20+2]]}} {{Zagreus=[[1d20+0]]}}

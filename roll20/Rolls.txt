@@ -1,0 +1,1 @@
+/roll ?{ Advantage |Normal,1d20|Advantage,2d20k1|Disadvantage,2d20kl1}

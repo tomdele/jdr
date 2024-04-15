@@ -1,0 +1,1 @@
+/roll 1d8 + (?{ level | 1} )d8 + ?{ Undead? | No, 0 | Yes, 1d8 }
